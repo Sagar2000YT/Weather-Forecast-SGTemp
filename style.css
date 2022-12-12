@@ -1,0 +1,24 @@
+/* Main-Content */
+.navbar-brand{
+    color: aqua;
+    font-weight: 800;
+}
+.color{
+    color: aliceblue;
+}
+.container2{
+    position: relative;
+    background:url(background.jpg);
+}
+.my-4 {
+    margin-top: 0rem!important; 
+    margin-bottom: 0rem!important; 
+}
+.col{
+    opacity: 70%;
+}
+.text-bg-primary {
+    color: rgb(35, 2, 226)!important;
+    background-color: RGBA(0,255,255,var(--bs-bg-opacity,1))!important;
+    
+}
